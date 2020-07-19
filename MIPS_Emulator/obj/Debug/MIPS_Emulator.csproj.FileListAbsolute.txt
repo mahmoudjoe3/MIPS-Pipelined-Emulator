@@ -1,0 +1,9 @@
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\bin\Debug\MIPS_Emulator.exe.config
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\bin\Debug\MIPS_Emulator.exe
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\bin\Debug\MIPS_Emulator.pdb
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\obj\Debug\MIPS_Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\obj\Debug\MIPS_Emulator.Form1.resources
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\obj\Debug\MIPS_Emulator.Properties.Resources.resources
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\obj\Debug\MIPS_Emulator.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\obj\Debug\MIPS_Emulator.exe
+C:\Users\Mahmoud Joe\Desktop\الابحاث\archi (MIPS Pipelined Emulator – Version 3)\MIPS_Emulator\MIPS_Emulator\obj\Debug\MIPS_Emulator.pdb
